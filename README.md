@@ -25,7 +25,7 @@
 - Predictive modeling – decision trees, logistic regression, neural network, kNN, Bayesian method, Regression model
 - Assessing Predictive models - Batch Approach to Model Assessment, Percent Correct Classification, Rank-Ordered Approach to Model Assessment, Assessing Regression Models
 
-### UNIT - IV [Chapter 10 and 11 (TextBook 2)]
+### UNIT - IV [Chapter 10 (TextBook 2)]
 ***Ensemble effect***
 - Model ensembles – motivation, wisdom of crowds, Bagging, Boosting, Random forests, stochastic gradient boosting, heterogeneous ensembles.
 
